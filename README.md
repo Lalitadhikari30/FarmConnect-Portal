@@ -131,4 +131,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-For support, please contact [your-email@example.com]
+For support, please contact [adhikarilalit9968@gmail.com]
