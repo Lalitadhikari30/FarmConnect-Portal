@@ -4,7 +4,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
+
 pnpm-debug.log*
 lerna-debug.log*
 
@@ -53,7 +53,7 @@ coverage/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-=======
+
 firebase-debug.log*
 firebase-debug.*.log*
 
@@ -117,4 +117,4 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
->>>>>>> 8b59ee41d08856a01858f65e476db3fbeae76264
+
