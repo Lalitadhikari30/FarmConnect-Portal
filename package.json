@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "farm-marketplace-platform",
   "private": true,
   "version": "0.0.0",
@@ -34,4 +35,15 @@
     "vite": "^7.1.12"
   },
   "homepage": "https://Lalitadhikari30.github.io/FarmConnect-Portal"
+=======
+  "dependencies": {
+    "firebase": "^12.4.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+>>>>>>> 8b59ee41d08856a01858f65e476db3fbeae76264
 }
